@@ -1,0 +1,60 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot?kyb4zk');
+	src:url('../fonts/icomoon.eot?kyb4zk#iefix') format('embedded-opentype'),
+		url('../fonts/icomoon.ttf?kyb4zk') format('truetype'),
+		url('../fonts/icomoon.woff?kyb4zk') format('woff'),
+		url('../fonts/icomoon.svg?kyb4zk#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'icomoon' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-book1152:before {
+	content: "\e904";
+}
+.icon-books712:before {
+	content: "\e907";
+}
+.icon-businessman2772:before {
+	content: "\e909";
+}
+.icon-child132:before {
+	content: "\e90a";
+}
+.icon-communication1:before {
+	content: "\e90b";
+}
+.icon-file942:before {
+	content: "\e90c";
+}
+.icon-finance-and-business42:before {
+	content: "\e90d";
+}
+.icon-group2:before {
+	content: "\e90e";
+}
+.icon-international122:before {
+	content: "\e90f";
+}
+.icon-man161:before {
+	content: "\e910";
+}
+.icon-medal45:before {
+	content: "\e911";
+}
+

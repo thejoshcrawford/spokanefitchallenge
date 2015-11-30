@@ -1,0 +1,899 @@
+@media only screen and (max-width: 1580px){
+	.button-member{display:none;}
+	.kode-content{
+		padding:130px 0;
+	}
+	.header-social{
+		padding:31px 30px 0 0;
+	}
+	
+}
+
+
+/*
+=================================================
+				UP FROM 1200PX
+=================================================
+*/ 
+@media (min-width: 1200px) {
+ 
+}
+/*
+=================================================
+			FROM 992PX TO 1199PX
+=================================================
+*/ 
+@media (min-width: 992px) and (max-width: 1199px) {
+	.kode-nav ul li a{
+		font-size:12px;
+	}
+	.kode-content h2{
+		font-size:40px;
+		line-height:54px;
+	}
+	.kode-content .overflow{
+		margin:-60px 0 10px;
+	}
+	.kode-content p{
+		margin:0 0 10px;
+	}
+	.button-holder .button{
+		padding:10px 10px;
+	}
+	.kf_accordian_hdg{
+		padding:15px 20px;
+	}
+	.kf_accordian_hdg h5{
+		font-size:16px;
+	}
+	.kode-blog-newcontent .meta-event{
+		font-size:13px;
+		margin-bottom:10px;
+	}
+	.our-team-first{
+		background-position:right bottom;
+	}
+	.kf_who_am figure{
+		float:left;
+		width:100%;
+		margin-bottom:20px;
+	}
+	.kf_who_am_des{
+		float:left;
+		width:100%;
+		padding:0px;
+	}
+	.kf_who_am_des ul{
+		width:100%;
+	}
+	.kf_who_am_des > ul > li > span, .kf_who_am_des > ul > li > a{
+		float:left;
+	}
+	ul.kf_conference li{
+		padding:10px;
+		font-size:12px;
+	}
+	.kf_comment_meta > span{
+		margin:0px 10px 10px 0px;
+	}
+	.like_fb, .like_amount{
+		margin-right:15px;
+		font-size:12px;
+	}
+	.kf_aside_folwer ul li{
+		padding:20px;
+	}
+	.like_page a{
+		font-size:12px;
+	}
+	.kode-blog-2 .kode-thumb-caption::after{
+		width:200px;
+	}
+	.kode-health-over li{
+		font-size:16px;
+	}
+	.counter-meta{
+		max-width:100%;
+	}
+	.speaker-event-content ul a{
+		height:30px;
+		width:30px;
+		padding:0px;
+		font-size:14px;
+		line-height:30px;
+	}
+	.kode_calender .fc-toolbar h2{
+		font-size:14px;
+		margin-top:5px;
+	}
+	.caption-info h5{
+		font-size:14px;
+	}
+	.caption-info span{
+		font-size:14px;
+	}
+	.count-down-timer .countdown li{
+		padding:9px 9px 0;
+	}
+	.kode-logo{
+		margin:0 20px 0 20px;
+	}
+	.header-social{
+		padding:31px 20px 0 0;
+	}
+	.sub-header{
+		min-height:200px;
+	}
+	.kode-slider-content{
+		width:630px;
+	}
+}
+/*
+=================================================
+			FROM 0PX TO 979PX
+=================================================
+*/ 
+@media (max-width: 991px) {
+	#mobile-header{
+		display:block;
+	}
+	.kode-nav{
+		display:none;
+	}
+	.kode-logo{
+		display:inline-block;
+		float:none;
+		padding-top:0px;
+	}
+	.col-right{
+		float:left;
+		width:100%;
+	}
+	.header-social{
+		padding:0px;
+		float:none;
+		display:inline-block;
+	}
+	#kode-header{
+		text-align:center;
+		border:none;
+		background-color:rgba(0,0,0,0.5);
+		padding:15px 0px;
+	}
+	.Kode-page-heading{
+		padding:15px 0px;
+	}
+	.event-slider-box, .event-boxslider{
+		width:100%;
+		padding:0;
+		border:none;
+		height:auto;
+	}
+	.event-slider-box:after, .event-borders{
+		display:none;
+	}
+	.event-boxslider{
+		position:static;
+	}
+	.bx-wrapper img{
+		max-width:100%;
+		width:100%;
+	}
+	.kode-content h2{
+		font-size:30px;
+	}
+	.kode-content .overflow{
+		margin:0px 0px 20px 0px;
+	}
+	.kode-content p{
+		display:none;
+	}
+	.kode-slider-content{
+		width:550px;
+	}
+	.kode-content{
+		padding:170px 0 0;
+	}
+	.register-holder{
+		position:static;
+		background-color:#ccc;
+	}
+	.register-button{
+		width:100%;
+	}
+	.kode-slider .bx-wrapper .bx-pager, .kode-slider .bx-wrapper .bx-controls-auto{
+		bottom:25%;
+	}
+	.icon-srvc{
+		height:65px;
+		width:65px;
+		margin-right:20px;
+		padding:16px 0px;
+		font-size:30px;
+	}
+	.kode-overview-holder:before, .kode-overview-holder:after{
+		opacity:0.1;
+	}
+	.scheduletabs .panel.panel-default{
+		padding:10px 0px;
+	}
+	.next-event-counter .countdown li{
+		width:75px;
+	}
+	.next-event-counter .countdown li span{
+		font-size:28px;
+		padding:0px;
+	}
+	.next-event-counter .countdown li p{
+		font-size:12px;
+		margin:0px;
+	}
+	#main .next-event-counter h2{
+		font-size:30px;
+	}
+	.kode-price-header h3{
+		font-size:40px;
+		line-height:40px;
+	}
+	.kode-price-header{
+		font-size:14px;
+		padding:20px 0px;
+	}
+	.kode-price-content{
+		font-size:14px;
+		padding:20px 10px;
+	}
+	.kode-price-content li{
+		padding:10px 0px;
+	}
+	.kode-price-footer{
+		padding:18px 0px;
+	}
+	.price-box-frame.first-box, .price-box-frame.last-box{
+		padding:0px;
+	}
+	.price-box-frame.first-box:before, .price-box-frame.last-box:after{
+		display:none;
+	}
+	.kodeevent-blog-post{
+		margin:0px 0px 30px 0px;
+	}
+	.kode-error > h4{
+		font-size:20px;
+	}
+	.kode-error > p{
+		text-transform:none;
+	}
+	.filter-item{
+		font-size:14px;
+	}
+	.kode_fortfolio_detail .caption-holder{
+		padding:70px 0px;
+	}
+	.our-team-second .our-speaker-social-section, .our-team-first .our-speaker-social-section{
+		padding:70px 0px;
+	}
+	.our-team-first{
+		background-position:right 80px;
+		background-size:contain;
+	}
+	.our-team-second{
+		background-position:left 80px;
+		background-size:contain;
+	}
+	.our-team-second .our-speaker-social-section, .our-team-first .our-speaker-social-section{
+		width:60%;
+	}
+	.kf_who_am figure{
+		width:100%;
+		margin-bottom:30px;
+	}
+	.kf_who_am_des{
+		float:left;
+		width:100%;
+		padding:0px;
+	}
+	.kf_who_am_des ul{
+		width:100%;
+	}
+	ul.kf_conference li{
+		width:33.333%;
+	}
+	.counter-meta{
+		float:left;
+		max-width:100%;
+		width:100%;
+	}
+	.kode-slider-speaker .thumb{
+		margin:0px 0px 30px 0px;
+	}
+	.sub-header{
+		min-height:139px;
+	}
+	.kode-logo{
+		margin:0px;
+	}
+	.kode-tickets-title div, .ticket-section ul li{
+		width:25%;
+		float:left;
+	}
+}
+/*
+=================================================
+			FROM 768PX TO 979PX
+=================================================
+*/
+
+@media (min-width: 768px) and (max-width: 979px) {
+	
+  
+}
+/*
+=================================================
+			FROM 0PX TO 767PX
+=================================================
+*/
+@media (max-width: 767px) {
+	#kode-header{
+		position:relative;
+	}
+	.kode-content{
+		padding:50px 0px 0px 0px;
+	}
+	.kode-slider-content{
+		width:90%;
+	}
+	.kode-content h2{
+		line-height:normal;
+	}
+	.kode-content h3{
+		font-size:16px;
+		line-height:normal;
+	}
+	.button-holder{
+		display:none;
+	}
+	.register-content{
+		float:left;
+		padding:20px 20px 18px;
+	}
+	.kode-overview-holder::before, .kode-overview-holder::after{
+		display:none;
+	}
+	.facts-counter .icons-wrap{
+		font-size:40px;
+	}
+	.kf_counter .counter{
+		font-size:42px;
+		line-height:46px;
+	}
+	.kf_counter span{
+		font-size:14px;
+	}
+	.kf_counter{
+		text-align:left;
+		padding:0 0 0 75px;
+	}
+	.kf_counter span{
+		text-align:left;
+	}
+	.kf_heading_2 h3, .kf_heading_4 h3{
+		font-size:24px;
+	}
+	.facts-row h3{
+		font-size:24px;
+	}
+	.kf_heading_1 h2{
+		font-size:24px;
+	}
+	.button-slide{
+		position:absolute;
+		right:0px;
+		top:-10px;
+	}
+	.scheduletabs .nav-tabs > li{
+		width:33.333%;
+	}
+	.scheduletabs .nav-tabs > li > a{
+		font-size:14px;
+		min-width:inherit;
+		padding:0px;
+	}
+	.scheduletabs .nav-tabs > li > a span{
+		font-size:18px;
+	}
+	.auditorium li{
+		width:33.333%;
+		min-width:inherit;
+	}
+	.auditorium {
+		font-size:14px;
+		line-height:50px;
+		
+	}
+	.announcer-pic{
+		margin:0px 10px 0px 0px;
+	}
+	.scheduletabs .panel-title{
+		font-size:20px;
+	}
+	.scheduletabs .tab-content{
+		padding:10px 20px;
+	}
+	.panel-heading, .panel-body	{
+		padding:0px;
+	}
+	.scheduletabs .panel-title{
+		margin:0px 0px 10px 0px;
+	}
+	.scheduletabs{
+		margin:0px;
+	}
+	.content-blue{
+		min-height:200px;
+		padding:50px 10px 30px;
+	}
+	.next-event-counter{
+		padding:30px 0;
+	}
+	#kode-speaker-causel .owl-controls .owl-buttons div{
+		top:-50px;
+	}
+	#kode-testimonial-causel .owl-controls .owl-buttons div{
+		top:-50px;
+	}
+	.kode-price-box.active, .kode-price-box{
+		margin:0px 0px 30px 0px;
+	}
+	.kode-price-box.active, .kode-price-box:hover{
+		transform:none;
+		-moz-transform:none;
+		-webkit-transform:none;
+	}
+	.kode-footer-text{
+		position:static;
+	}
+	footer .event-map{
+		display:none;
+	}
+	.footer-cols, .kode-event-contact, .kode-latest-blog, .kf_faq_bg, .kode-event-testimonial, .kode-our-pricing, .kode-our-gallery, .kode-speaker-frame, .kode-conference-schedule, .kode-main-services, .kode-overview-holder{
+		padding:30px 0px;
+	}
+	.overview_caption{
+		width:100%;
+	}
+	.overview{
+		background-color:#f2f2f2 ;
+	}
+	.overview:before, .overview:after{
+		display:none;
+		
+	}
+	.overview .overview_caption ul li{
+		padding:15px 0px;
+	}
+	.kode-error > h3{
+		font-size:150px;
+	}
+	.kode-error > p{
+		width:auto;
+	}
+	.kode-error > a{
+		margin-bottom:20px;
+	}
+	.filter-item li a{
+		font-size:12px;
+		padding:7px 10px;
+	}
+	.filter-item li{
+		margin:0px 2px;
+	}
+	.our-team-second .our-speaker-social-section, .our-team-first .our-speaker-social-section{
+		padding:30px 0px;
+	}
+	.our-team-second .our-speaker-social-section > h3, .our-team-first .our-speaker-social-section > h3{
+		font-size:26px;
+	}
+	.our-team-second .our-speaker-social-section > span, .our-team-first .our-speaker-social-section > span{
+		margin:0px 0px 10px 0px;
+	}
+	.our-team-second .our-speaker-social-section > p, .our-team-first .our-speaker-social-section > p{
+		font-size:14px;
+	}
+	.kode-slider-content .overflow{
+		display:none;
+	}
+	.Kode-page-heading .container .row .col-md-6.col-sm-6{
+		width:auto;
+		float:right;
+	}
+	.Kode-page-heading .container .row .col-md-6.col-sm-6:first-child{
+		float:left;
+	}
+	.kf_accordian_hdg{
+		padding:15px 20px;
+	}
+	.sub-header{
+		position:absolute;
+		left:0px;
+		top:0px;
+	}
+	.kf_comment ul ul{
+		padding-left:20px;
+	}
+	.kf_admin_comment{
+		margin-bottom:20px;
+	}
+	.kf_comment_des > ul > li > a{
+		padding:0px 8px;
+	}
+	.kf_comment_des > a{
+		font-size:12px;
+		line-height:14px;
+	}
+	.kf_reply_field{
+	}
+	.count-down-timer .countdown{
+		float:left;
+		width:100%;
+		padding:15px;
+		text-align:center;
+	}
+	.count-down-timer .countdown li{
+		float:none;
+		display:inline-block;
+	}
+	.caption-info{
+		float:left;
+		width:100%;
+		padding:15px;
+	}
+	.caption-info:after, .caption-info:before{
+		display:none;
+	}
+	.kode-content h2{
+		font-size:20px;
+	}
+	
+
+}
+/*
+=================================================
+			FROM 0PX TO 0PX
+=================================================
+*/
+@media (max-width: 480px) {
+	#mobile-header{
+		left:20px;
+	}
+	.kode-content h2{
+		font-size:20px;
+	}
+	.kode-slider-content{
+		width:70%;
+	}
+	
+	.kode-content .overflow{
+		display:none;
+	}
+	.register-content{
+		max-width:220px;
+		padding:20px 10px;
+	}
+	.register-content h3{
+		font-size:16px;
+		margin:0px;
+	}
+	.register-content p{
+		font-size:14px;
+	}
+	.kf_heading_2 h3, .kf_heading_4 h3{
+		font-size:20px;
+	}
+	.facts-counter{
+		vertical-align:middle;
+		text-align:center;
+	}
+	.facts-row h3{
+		font-size:20px;
+	}
+	.facts-counter div.col-md-3{
+		float:left;
+		width:100%;
+		padding:20px 0px;
+		border-top:solid 1px #ccc;
+		-webkit-border-top:solid 1px #ccc;
+	}
+	.facts-counter .icons-wrap{
+		float:none;
+		display:inline-block;
+		padding:0px;
+		vertical-align:middle;
+	}
+	.kf_counter{
+		display:inline-block;
+		padding:0px;
+		vertical-align:middle;
+	}
+	.kf_counter, .kf_counter span{
+		text-align:center;
+		margin:0px;
+	}
+	.button-slide{
+		display:none;
+	}
+	.kf_heading_1 span, .kf_heading_2 span{
+		font-size:14px;
+		line-height:20px;
+	}
+	.kode-welcome .icon-srvc{
+		float:none;
+		margin:0px 0px 10px 0px;
+		display:inline-block;
+	}
+	.srvc-content{
+		float:left;
+		width:100%;
+	}
+	.main-service-box{
+		padding:20px;
+		text-align:center;
+	}
+	.scheduletabs .panel-title{
+		font-size:18px;
+		line-height:20px;
+	}
+	.scheduletabs .panel-body p{
+		font-size:14px;
+	}
+	.next-event-counter .countdown li{
+		margin:0px 3px;
+		width:60px;
+	}
+	.subscribe-form input[type="submit"]{
+		padding:15px 10px;
+	}
+	.kode-blog-newcontent .meta-event{
+		font-size:12px;
+		margin:0 15px 17px 0;
+	}
+	.Kode-page-heading{
+		text-align:center;
+	}
+	.Kode-page-heading ul{
+		float:none;
+		display:inline-block;
+	}
+	.overview_caption > h2{
+		font-size:20px;
+	}
+	.overview_caption li h5{
+		font-size:16px;
+	}
+	.filter-item li{
+		margin:2px;
+	}
+	.our-team-first, .our-team-second{
+		background:none;
+	}
+	.our-team-second .our-speaker-social-section, .our-team-first .our-speaker-social-section{
+		float:left;
+		width:100%;
+	}
+	.kf_who_am_des > ul > li > span, .kf_who_am_des > ul > li > a{
+		padding:10px;
+		font-size:14px;
+	}
+	.like_fb, .like_amount{
+		margin-right:12px;
+		font-size:12px;
+	}
+	.kf_aside_folwer ul li{
+		padding:10px;
+	}
+	.kode-blog-style{
+		float:left;
+		width:100%;
+		padding:0px;
+	}
+	.blog-2-side-bar{
+		float:left;
+		width:100%;
+	}
+	.kode-blog-2 .blog-2-side-bar ul li{
+		width:auto;
+		padding:0px 5px;
+	}
+	.kode-blog-2 .blog-2-side-bar ul li strong{
+		text-align:center;
+		width:100%;
+	}
+	.kode-blog-2 .blog-2-side-bar ul li a{
+		border:none;
+		font-size:12px;
+		text-align:center;
+	}
+	.kode-health-conference .kode-health-over{
+		position:static;
+		margin:10px 0px 0px 0px;
+		float:left;
+		width:100%;
+	}
+	.kode-health-over li{
+		font-size:12px;
+		padding:10px 10px;
+	}
+	ul.kf_conference li{
+		float:left;
+		width:100%;
+	}
+	.kf_comment_meta > span{
+		float:left;
+		width:100%;
+		margin:0px 0px 10px 0px;
+	}
+	.kode-health-over li > a{
+		margin:0px 10px 0px 0px;
+	}
+	ul.kf_social_icon{
+		float:left;
+		width:100%;
+		text-align:center;
+	}
+	ul.kf_social_icon li{
+		float:none;
+		display:inline-block;
+	}
+	.kode_event_counter_section li span{
+		font-size:16px;
+		padding:0px 14px;
+	}
+	.kode_event_counter_section ul li p{
+		font-size:9px;
+	}
+	.kode_event_counter_section ul li::before{
+		font-size:30px;
+	}
+	.kode_calender .fc-toolbar h2{
+		font-size:14px;
+		margin:6px 0px 0px 0px;
+	}
+	/*Blog Detail Page*/
+	.kf_blog_detail_des ul li{
+		width:100%;	
+	}
+	.kf_blog_detail_des ul li a{
+		border-left:0px;
+		padding-left:0px;	
+	}
+	.kf_comment_des{
+		padding:0px;	
+	}
+	.kf_admin_comment figure img{
+
+	}
+	.kf_admin_comment figure{
+		display:inline-block;
+		text-align:center;
+		margin-right:10px;
+		height:60px;
+		width:60px;
+	}
+	.kf_comment{
+		padding:20px;
+	}
+	.kf_comment_des ul li a, .kf_comment_des ul li a h6{
+		font-size:12px;
+	}
+	.kf_comment_des p{
+		line-height:22px;
+	}
+	.kf_comment_des > a{
+		line-height:normal	
+	}
+	.kf_comment ul ul{
+		padding:0px;	
+	}
+	.kf_reply_field input[type="submit"], .kf_reply_field button{
+		margin-bottom:30px;	
+	}
+	.scheduletabs .panel-heading::before{
+		right:0px;
+	}
+	.auditorium a{
+		font-size:12px;
+	}
+	.kf_accordian_hdg h5{
+		font-size:16px;
+	}
+	.kf_heading_1 h2{
+		font-size:20px;
+	}
+	#footer h3{
+		font-size:20px;
+	}
+	.footer-copyright p{
+		font-size:14px;
+	}
+	.Kode-page-heading .container .row .col-md-6.col-sm-6{
+		float:left;
+		width:100%;
+	}
+	.Kode-page-heading h2{
+		font-size:20px;
+	}
+	.Kode-page-heading ul{
+		float:left;
+		width:100%;
+		text-align:center;
+	}
+	.Kode-page-heading ul li{
+		display:inline-block;
+		float:none;
+	}
+	.kode-heading-overview h2, .overview_caption > h2{
+		font-size:20px;
+		margin-bottom:10px;
+	}
+	.icon_captions{
+		text-align:center;
+	}
+	.our_sponsors .item{
+		text-align:center;
+	}
+	.kode-comming-soon h3{
+		font-size:36px;
+	}
+	.kode-comming-soon p{
+		font-size:14px;
+	}
+	.kode-comming-soon > form{
+		width:100%;
+	}
+	.kf_gallery_des{
+		width:90%;
+		left:0px;
+		right:0px;
+		margin-left:auto;
+		margin-right:auto;
+	}
+	.our-team-second .our-speaker-social-section > h3, .our-team-first .our-speaker-social-section > h3{
+		font-size:20px;
+	}
+	.our-team-second .our-speaker-social-section > span, .our-team-first .our-speaker-social-section > span{
+		font-size:16px;
+	}
+	.pag .pagination > li > a, .pagination > li > span, .pag .pagination > li:last-child > a, .pagination > li:last-child > span, .pag .pagination > li:first-child > a, .pagination > li:first-child > span{
+		font-size:12px;
+		padding:2px 10px;
+	}
+	.kode-health-conference figure{
+		margin-bottom:0;
+	}
+	.kode_event_conter_capstion h2{
+		font-size:20px;
+		line-height:26px;
+	}
+	.ticket-section h3{
+		font-size:20px;
+	}
+	.kode-tickets-title div{
+		padding:15px 5px;
+		font-size:12px;
+		min-height:80px;
+	}
+	.ticket-section ul li{
+		font-size:12px;
+		line-height:18px;
+		padding:0px;
+	}
+	.overview .overview_caption ul li{
+		margin:0px 0px 15px 0px;
+	}
+	.main-service-box .icon-srvc{
+		margin:0px 0px 10px 0px;
+		float:none;
+		display:inline-block;
+	}
+}
+

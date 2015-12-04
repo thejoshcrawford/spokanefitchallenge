@@ -166,7 +166,7 @@ h1,h2,h3,h4,h5,h6{
 .kode-content h2{
 	margin:0 0 10px;
 	color:#fff;
-	font-size: 60px;
+	font-size: 56px;
 	line-height:75px;
 	text-transform:uppercase;
 }
@@ -467,16 +467,17 @@ h1,h2,h3,h4,h5,h6{
 	position:absolute;
 	content:'';
 	background:url(extra-images/img02.png) no-repeat;
+	background-size: cover;
 	width:340px;
 	height:315px;
-	left:-120px;
+	left:-70px;
 	bottom:270px;
 	opacity:0.2;
 }
 .kode-overview-holder:after{
 	position:absolute;
 	content:'';
-	background:url(extra-images/img04.png) no-repeat;
+	background:url(extra-images/img04.jpg) no-repeat;
 	width:359px;
 	height:430px;
 	right:-80px;
@@ -484,6 +485,20 @@ h1,h2,h3,h4,h5,h6{
 	opacity:0.2;
 }
 .kode-overview-holder .container{
+	position:relative;
+	z-index:10;
+}
+.kode-counter{
+	position:relative;
+	overflow:hidden;
+	padding:70px 0;
+	color:#666;
+	float:left;
+	width:100%;
+	background: url(extra-images/counter-bg.jpg) no-repeat 50% 0;
+    background-size: cover;
+}
+.kode-counter .container{
 	position:relative;
 	z-index:10;
 }

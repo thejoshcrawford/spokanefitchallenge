@@ -959,7 +959,7 @@ h1,h2,h3,h4,h5,h6{
 	border-radius:0;
 	box-shadow:none;
 	position:relative;
-	padding:60px 0 30px;
+	padding:60px 0 0px;
 	float:left;
 	width:100%;
 }
@@ -1005,7 +1005,7 @@ h1,h2,h3,h4,h5,h6{
 	border:none;
 	color:#666;
 }
-.scheduletabs .panel-body p{margin:0 0 20px;}
+.scheduletabs .panel-body p{margin:0 0 0px;}
 .scheduletabs .announcer{
 	display:block;
 	font:20px/24px 'Montserrat', Arial, Helvetica, sans-serif;

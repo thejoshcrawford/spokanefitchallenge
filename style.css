@@ -691,7 +691,7 @@ h1,h2,h3,h4,h5,h6{
 .facts-counter .icons-wrap{
 	display:inline-block;
 	vertical-align:middle;
-	color:#8d8d8d;
+	color:#337ab7;
 	font-size:72px;
 	float:left;
 	width:75px;
@@ -705,7 +705,7 @@ h1,h2,h3,h4,h5,h6{
 .kf_counter .counter{
 	font-size:72px;
 	line-height:76px;
-	color:#333;
+	color:#f5f5f5;
 	display:inline-block;
 	vertical-align:middle;
 	margin-bottom:10px;
@@ -714,7 +714,7 @@ h1,h2,h3,h4,h5,h6{
 	display:block;
 	line-height:22px;
 	font-size:18px;
-	color:#666;
+	color:#f5f5f5;
 }
 /*
 	  ==============================================================
@@ -1250,6 +1250,10 @@ h1,h2,h3,h4,h5,h6{
 	position:relative;
 	overflow:hidden;
 	max-height:437px;
+	min-height:300px;
+	display: flex;
+    background: white;
+    align-items: center;
 }
 .speaker-photo img{
 	display:block;

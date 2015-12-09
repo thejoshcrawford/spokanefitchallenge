@@ -1251,6 +1251,9 @@ h1,h2,h3,h4,h5,h6{
 	content:'';
 }
 .speaker-photo{
+	border: black;
+    border-style: solid;
+    border-width: 10px;
 	position:relative;
 	overflow:hidden;
 	max-height:437px;
@@ -1272,6 +1275,7 @@ h1,h2,h3,h4,h5,h6{
 	position:relative;
 	padding:30px 25px;
 	text-align:center;
+	min-height: 148px;
 }
 .new-ourspeaker h3{
 	margin:0 0 10px;
@@ -1288,6 +1292,14 @@ h1,h2,h3,h4,h5,h6{
 	line-height:20px;
 	text-align:center;
 	color:#fff;
+}
+.map {
+	background: url(extra-images/crossfit-map.jpg) no-repeat center;
+    height: 100vh;
+    width: 100%;
+	background-size: cover;
+	background-attachment: scoll;
+	float: left;
 }
 .new-ourspeaker h3 span{
 	font-weight:400;
@@ -1315,6 +1327,7 @@ h1,h2,h3,h4,h5,h6{
 	font-size:16px;
 	line-height:24px;
 	opacity:0;
+	min-height: 158px;
 }
 .new-ourspeaker.over-state p{margin:0 0 15px;}
 .new-ourspeaker.over-state h3 span{color:#fff;}

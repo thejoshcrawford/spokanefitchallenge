@@ -1257,7 +1257,7 @@ h1,h2,h3,h4,h5,h6{
 	position:relative;
 	overflow:hidden;
 	max-height:437px;
-	min-height:300px;
+	min-height:320px;
 	display: flex;
     background: white;
     align-items: center;
@@ -1293,12 +1293,9 @@ h1,h2,h3,h4,h5,h6{
 	text-align:center;
 	color:#fff;
 }
-.map {
-	background: url(extra-images/crossfit-map.jpg) no-repeat center;
-    height: 100vh;
+.map img {
+    height: auto;
     width: 100%;
-	background-size: cover;
-	background-attachment: scoll;
 	float: left;
 }
 .new-ourspeaker h3 span{

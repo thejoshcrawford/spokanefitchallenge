@@ -152,6 +152,7 @@ $(document).ready(function(){
 	if($('#kode-speaker-causel').length){
 		var owl = $("#kode-speaker-causel");
 		owl.owlCarousel({	
+		   autoPlay: 3000,
 		  itemsCustom : [
 			[0, 1],
 			[450, 1],

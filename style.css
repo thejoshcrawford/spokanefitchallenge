@@ -836,6 +836,10 @@ h1,h2,h3,h4,h5,h6{
 	padding:70px 0;
 	float:left;
 	width:100%;
+	background: #1A202F;
+}
+.kode-conference-schedule h2{
+	color: #e6e6e6;
 }
 .schedule-banner{
 	position:relative;

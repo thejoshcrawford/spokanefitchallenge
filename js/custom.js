@@ -494,7 +494,7 @@ function affiliateMap() {
                     lat: latlng.lat(),
                     lng: latlng.lng(),
                     infoWindow: {
-                        content: '<div class="widget-section-block"><a href="http://www.crossfit509.com/" target="_blank" class="affiliate-name">CrossFit 509</a><br><div class="row"><div class="affiliate-address col-sm-8">9107 N Country Homes Blvd, Suites 8-9<br>Spokane, WA 99218<br>(509) 879-6985</div></div></div>'
+                        content: '<a href="http://www.crossfit509.com/" target="_blank" class="affiliate-name">CrossFit 509</a><br>9107 N Country Homes Blvd, Suites 8-9<br>Spokane, WA 99218<br>(509) 879-6985'
                     }
                 });
                 map.fitZoom();
@@ -510,7 +510,7 @@ function affiliateMap() {
                     lat: latlng.lat(),
                     lng: latlng.lng(),
                     infoWindow: {
-                        content: '<div class="widget-section-block"><a href="#" target="_blank" class="affiliate-name">CrossFit Rewired</a><br><div class="row"><div class="affiliate-address col-sm-8">6720 N Pittsburg Street<br>Spokane, WA 99217<br>(509) 990-6175</div></div></div>'
+                        content: '<a href="http://crossfitrewired.com" target="_blank" class="affiliate-name">CrossFit Rewired</a><br>6720 N Pittsburg Street<br>Spokane, WA 99217<br>(509) 990-6175'
                     }
                 });
                 map.fitZoom();
@@ -526,7 +526,7 @@ function affiliateMap() {
                     lat: latlng.lat(),
                     lng: latlng.lng(),
                     infoWindow: {
-                        content: '<div class="widget-section-block"><a href="http://crossfitspokane.com" target="_blank" class="affiliate-name">CrossFit Spokane</a><br><div class="row"><div class="affiliate-address col-sm-8">116 E Augusta Ave<br>Spokane, WA 99207<br>(509) 328-3198</div></div></div>'
+                        content: '<a href="http://crossfitspokane.com" target="_blank" class="affiliate-name">CrossFit Spokane</a><br>116 E Augusta Ave<br>Spokane, WA 99207<br>(509) 328-3198'
                     }
                 });
                 map.fitZoom();
@@ -542,7 +542,7 @@ function affiliateMap() {
                     lat: latlng.lat(),
                     lng: latlng.lng(),
                     infoWindow: {
-                        content: '<div class="widget-section-block"><a href="http://crossfitduratus.com" target="_blank" class="affiliate-name">CrossFit Duratus</a><br><div class="row"><div class="affiliate-address col-sm-8"> 1303 N Washington, Suite B<br>Spokane, WA 99201<br>(208) 661-4724</div></div></div>'
+                        content: '<a href="http://crossfitduratus.com" target="_blank" class="affiliate-name">CrossFit Duratus</a><br>1303 N Washington, Suite B<br>Spokane, WA 99201<br>(208) 661-4724'
                     }
                 });
                 map.fitZoom();
@@ -558,7 +558,7 @@ function affiliateMap() {
                     lat: latlng.lat(),
                     lng: latlng.lng(),
                     infoWindow: {
-                        content: '<div class="widget-section-block"><a href="http://crossfitexpedition.com" target="_blank" class="affiliate-name">CrossFit Expedition</a><br><div class="row"><div class="affiliate-address col-sm-8">125 South Arthur<br>Spokane, WA 99202<br>(360) 589-4156</div></div></div>'
+                        content: '<a href="http://crossfitexpedition.com" target="_blank" class="affiliate-name">CrossFit Expedition</a><br>125 South Arthur<br>Spokane, WA 99202<br>(360) 589-4156'
                     }
                 });
                 map.fitZoom();
@@ -574,7 +574,7 @@ function affiliateMap() {
                     lat: latlng.lat(),
                     lng: latlng.lng(),
                     infoWindow: {
-                        content: '<div class="widget-section-block"><a href="http://predationcrossfit.com" target="_blank" class="affiliate-name">Predation CrossFit</a><br><div class="row"><div class="affiliate-address col-sm-8">3627 E Springfield Ave<br>Spokane, WA 99202<br>(509) 703-9291<br></div></div>'
+                        content: '<a href="http://predationcrossfit.com" target="_blank" class="affiliate-name">Predation CrossFit</a><br>3627 E Springfield Ave<br>Spokane, WA 99202<br>(509) 703-9291'
                     }
                 });
                 map.fitZoom();
@@ -590,7 +590,7 @@ function affiliateMap() {
                     lat: latlng.lat(),
                     lng: latlng.lng(),
                     infoWindow: {
-                        content: '<div class="widget-section-block"><a href="http://breachercrossfit.com" target="_blank" class="affiliate-name">Breacher CrossFit</a><br><div class="row"><div class="affiliate-address col-sm-8">5027 East Trent Avenue<br>Spokane Valley, WA 99212<br>(509) 869-4424<br></div></div>'
+                        content: '<a href="http://breachercrossfit.com" target="_blank" class="affiliate-name">Breacher CrossFit</a><br>5027 East Trent Avenue<br>Spokane Valley, WA 99212<br>(509) 869-4424'
                     }
                 });
                 map.fitZoom();
@@ -606,7 +606,7 @@ function affiliateMap() {
                     lat: latlng.lat(),
                     lng: latlng.lng(),
                     infoWindow: {
-                        content: '<div class="widget-section-block"><a href="http://crossfitspokanevalley.com" target="_blank" class="affiliate-name">CrossFit Spokane Valley</a><br><div class="row"><div class="affiliate-address col-sm-8"> 12403 E. First Avenue<br>Spokane, WA 99216<br>(509) 990-2000<br></div></div>'
+                        content: '<a href="http://crossfitspokanevalley.com" target="_blank" class="affiliate-name">CrossFit Spokane Valley</a><br>12403 E. First Avenue<br>Spokane, WA 99216<br>(509) 990-2000'
                     }
                 });
                 map.fitZoom();
@@ -614,7 +614,7 @@ function affiliateMap() {
         }
     });
     GMaps.geocode({
-        address: "22808 E Appleway, Liberty Lake&lrm;, WA 99019",
+        address: "22808 E Appleway, Liberty Lake, WA 99019",
         callback: function (results, status) {
             if (status == 'OK') {
                 var latlng = results[0].geometry.location;
@@ -622,7 +622,7 @@ function affiliateMap() {
                     lat: latlng.lat(),
                     lng: latlng.lng(),
                     infoWindow: {
-                        content: '<div class="widget-section-block"><a href="http://crossfitlibertylake.com" target="_blank" class="affiliate-name">CrossFit Liberty Lake</a><br><div class="row"><div class="affiliate-address col-sm-8">  22808 E Appleway, Suite C<br>Liberty Lake, WA 99019<br>(509) 893-4115<br></div></div>'
+                        content: '<a href="http://crossfitlibertylake.com" target="_blank" class="affiliate-name">CrossFit Liberty Lake</a><br>22808 E Appleway, Suite C<br>Liberty Lake, WA 99019<br>(509) 893-4115'
                     }
                 });
                 map.fitZoom();
